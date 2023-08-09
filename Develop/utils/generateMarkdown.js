@@ -42,7 +42,7 @@ ${renderLicenseBadge(data.license)}
 ${renderLicenseLink(data.license)}
 - [Contribution](#contributing)
 - [Tests](#tests)
-- [Questions] (#questions)
+- [Questions](#questions)
 
 ## Description
 ${data.description}
@@ -62,8 +62,9 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-![github](https://github.com/${data.username})
-${data.email}
+GitHub Profile: https://github.com/${data.username}
+
+Email: ${data.email}
 `;
 }
 

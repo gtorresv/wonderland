@@ -62,7 +62,7 @@ function init() {
         //console.log(data)
         const markdown = generateMarkdown(data);
         console.log(markdown);
-        fs.writeFileSync('./generatedREADME.md', markdown);
+        //fs.writeFileSync('./generatedREADME.md', markdown);
     })
 }
 
