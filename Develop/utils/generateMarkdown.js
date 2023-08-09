@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if(license !== 'None') {
-    return`![license](https://img.shields.io/badge/license-${license}-teal)
+    return`![license](https://img.shields.io/badge/License-${license}-teal)
     `
   } else {
     return ''
@@ -60,6 +60,10 @@ ${data.contributing}
 
 ## Tests
 ${data.tests}
+
+## Questions
+![github](https://github.com/${data.username})
+${data.email}
 `;
 }
 
