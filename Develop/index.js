@@ -6,22 +6,22 @@ const fs = require('fs');
 const questions = [
     {
         type: 'input',
-        message: 'What is the title of the project?',
+        message: 'What is the title of your project?',
         name: 'title'
     },
     {
         type: 'input',
-        message: 'What is the description for your project?',
+        message: 'Please provide a brief description of your project explaining the what, why, and how. What was the reason for creating your project and what does it solve?',
         name: 'description'
     },
     {
         type: 'input',
-        message: 'What is the installation process?',
+        message: 'What is the installation process step-by-step?',
         name: 'installation'
     },
     {
         type: 'input',
-        message: 'What would be the usage for the project?',
+        message: 'Provide a set of instructions and examples of how to use your project.',
         name: 'usage'
     },
     {
