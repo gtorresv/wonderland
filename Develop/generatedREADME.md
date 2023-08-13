@@ -1,20 +1,34 @@
-# y
-![license](https://img.shields.io/badge/license-MIT-teal)
+# README Generator
+![license](https://img.shields.io/badge/License-BSD-teal)
     
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contribution](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## description
-y
+## Description
+Project created to generate a readme file.
 
-## installation
-r
+## Installation
+Install node js
 
-## usage
-e
+## Usage
+next
+
 ## License
-    MIT
+    BSD
+
+## Contribution
+email me 
+
+## Tests
+n/a
+
+## Questions
+GitHub Profile: https://github.com/gtorresv
+
+Email: email@email.com
