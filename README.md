@@ -12,6 +12,8 @@ Before using the application, you would need to install npm in the command line 
 
 In order to utilize this application the developer would need to download the app to their computer and open it in their Visual Studio Code or their own source code editor. You would have to open up a terminal within the directory. Once you do an npm install on the command line, you would have to follow by entering: [node index.js]. With that command, the application will function. You will get a series of questions and can answer them by typing an input. The answers will be transfered to a new file containing the generated README.md file. A video demonstrating how the application works will be attached shortly.  
 
+You can access the video demonstration with the following link: https://drive.google.com/file/d/1yVr0-ZIoFXd_6A2KhznTNSCipXCBEn4N/view. 
+
 ## Credits
 
 I recieved assistance from a bootcamp tutor named Abdullah Al Hilfi. 
